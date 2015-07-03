@@ -1,8 +1,8 @@
-# Waldson Moura's dotfiles
+# Eduardo Melo's dotfiles
 
 ## Install
 ```bash
-cd; git clone git@github.com:mourawaldson/dotfiles.git .dotfiles && bash .dotfiles/install
+cd; git clone git@github.com:eduardomelo/dotfiles.git .dotfiles && bash .dotfiles/install
 ```
 ## Git free install
 ```bash
